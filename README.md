@@ -9,3 +9,4 @@
 ### The text I took from using the API library of Sefaria.
 ### I deliberately chose a Version with Ta'amei Hamikra and Nikkud so i can show the use of regular expressions.
 ### I scanned the two sections of text using fuzzy matching to find the different words between the two texts.
+![תמונת_הסבר](https://user-images.githubusercontent.com/34858407/201213256-59343ce1-be67-4410-a538-d6dc9c169403.png)
